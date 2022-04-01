@@ -4,7 +4,7 @@
 - 🎨 Atualmente estudando Front-End
 <div align="center">
   <a href="https://instagram.com/apriscillaguerra">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apriscillaguerra&layout=compact&langs_count=7&theme=omni"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apriscillaguerra&layout=compact&langs_count=7&theme=omni"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Pri-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
